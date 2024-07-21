@@ -1,1 +1,2 @@
 print("Esselamoualeikoum, Sidi Mohamed")
+print ("Sidi Mohamed Nouamane est devenu un ingénieur exceptionnel en devOps, Ces réalisations sont entraine d'impressionner tous le monde et il est egalement un grand savant musulement")
